@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@nx/eslint": "^19.6.4",
     "@nx/vite": "^19.6.4",
+    "eslint": "~8.57.0",
     "nx": "19.6.4"
   }
 }
